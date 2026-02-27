@@ -4,8 +4,8 @@ export default function Home() {
       <div className="container">
         <nav className="nav">
           <div className="logo">
-            <div className="logo-badge">A</div>
-            Agent Foundry
+            <div className="logo-badge">P</div>
+            Praetorian
           </div>
           <div className="nav-links">
             <a href="#how">How it works</a>
@@ -90,7 +90,7 @@ export default function Home() {
           </div>
           <div className="quote">
             <p>
-              “We thought our mission agent was secure. Agent Foundry surfaced escalation paths in 48 hours —
+              “We thought our mission agent was secure. Praetorian surfaced escalation paths in 48 hours —
               and sealed them.”
             </p>
             <div>Security lead, federal integrator</div>
@@ -172,8 +172,8 @@ export default function Home() {
       </section>
 
       <footer className="container footer">
-        <div>© 2026 Agent Foundry. All rights reserved.</div>
-        <div>hello@agentfoundry.ai · San Francisco</div>
+        <div>© 2026 Praetorian. All rights reserved.</div>
+        <div>hello@praetorian.ai · San Francisco</div>
       </footer>
     </main>
   );
