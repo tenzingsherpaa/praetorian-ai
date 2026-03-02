@@ -5,7 +5,7 @@ export default function Home() {
         <nav className="nav">
           <div className="logo">
             <div className="logo-badge">P</div>
-            Praetorian
+            Pome
           </div>
           <div className="nav-links">
             <a href="#how">How it works</a>
@@ -90,7 +90,7 @@ export default function Home() {
           </div>
           <div className="quote">
             <p>
-              “We thought our mission agent was secure. Praetorian surfaced escalation paths in 48 hours —
+              “We thought our mission agent was secure. Pome surfaced escalation paths in 48 hours —
               and sealed them.”
             </p>
             <div>Security lead, federal integrator</div>
@@ -144,7 +144,7 @@ export default function Home() {
               <source src="/demo.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
-            <div className="video-caption">Replace `public/demo.mp4` with your demo video.</div>
+            <div className="video-caption">Demo video source: `public/demo.mp4`.</div>
           </div>
         </div>
       </section>
@@ -172,8 +172,8 @@ export default function Home() {
       </section>
 
       <footer className="container footer">
-        <div>© 2026 Praetorian. All rights reserved.</div>
-        <div>hello@praetorian.ai · San Francisco</div>
+        <div>© 2026 Pome. All rights reserved.</div>
+        <div>hello@pome.ai · San Francisco</div>
       </footer>
     </main>
   );

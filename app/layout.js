@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Praetorian — YC-Style Demo",
+  title: "Pome — YC-Style Demo",
   description: "Send your agent. We harden it against prompt injection, data exfiltration, and tool abuse."
 };
 
