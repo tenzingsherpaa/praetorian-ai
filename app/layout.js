@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Pome — YC-Style Demo",
-  description: "Send your agent. We harden it against prompt injection, data exfiltration, and tool abuse."
+  title: "Spring 2026 Deadline Dashboard",
+  description: "Interactive semester dashboard for COS 240, COS 435, CLA, and IW deadlines."
 };
 
 export default function RootLayout({ children }) {
